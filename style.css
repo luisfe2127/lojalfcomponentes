@@ -4,6 +4,8 @@
     padding: 0px;
     margin: 0px;
 }
+
+/* INICIO */
   
 
 #title01 {
@@ -53,5 +55,11 @@
     text-align: center;
     font-size: 40px;
     letter-spacing: 2px;
+}
+
+img {
+    width: 200px;
+    height: 220px;
+    margin-left: 100px;  
 }
 
