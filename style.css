@@ -25,6 +25,17 @@
     box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.233);
 }
 
+/* SECTION MENU */
+
+#menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10vh;
+}
+
+/* ANIMAÇAO NO MENU */
+
 #menu > a {
     color: black;
     text-decoration: none;
@@ -44,12 +55,9 @@
     padding: 2px 11px;
 }
 
-#menu {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 12vh;
-}
+/*----------------END-MENU----------------*/
+
+/* SECTION PRODUCTSHOME */
 
 #subTitle01 {
     text-align: center;
@@ -57,9 +65,25 @@
     letter-spacing: 2px;
 }
 
+#productsHome {
+    text-align: center; 
+}
+
+#productsHome a {
+    display: inline-block; 
+}
+
 img {
     width: 200px;
     height: 220px;
-    margin-left: 100px;  
+    margin: 20px 300px 0 0; 
+    transition: 1s;
 }
+
+img:hover {
+    width: 210px;
+    height: 230px;
+}
+
+
 
