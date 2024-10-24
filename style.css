@@ -67,6 +67,8 @@
 
 #productsHome {
     text-align: center; 
+    background-color: rgba(0, 0, 0, 0.034);
+    padding-bottom: 21px;
 }
 
 #productsHome a {
@@ -85,12 +87,8 @@ img:hover {
     height: 230px;
 }
 
-#agulhas {
-    background-image: url('imagensprodutos/br-11134207-7r98o-lzp7dbsskeud21.webp');
-}
 
-#agulhas:hover {
-    background-image: url('imagensprodutos/br-11134207-7r98o-lzp7dbssomjp83@resize_w450_nl.webp');
-}
+
+
 
 
