@@ -69,6 +69,8 @@
     text-align: center; 
     background-color: rgba(0, 0, 0, 0.034);
     padding-bottom: 21px;
+    margin-top: -240px;
+    
 }
 
 #productsHome a {
@@ -86,6 +88,17 @@ img:hover {
     width: 210px;
     height: 230px;
 }
+
+#backgroundProductsHome {
+    position: relative; /* Define a posição como relativa */
+    z-index: 1; /* Define um z-index menor */
+}
+
+
+
+
+
+
 
 
 
