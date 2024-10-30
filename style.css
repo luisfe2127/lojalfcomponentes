@@ -94,6 +94,11 @@ img:hover {
     z-index: 1; /* Define um z-index menor */
 }
 
+#backgroundProductsHome > img {
+    width: 900px;
+}
+
+
 
 
 
