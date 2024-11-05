@@ -67,15 +67,11 @@
 
 #productsHome {
     text-align: center; 
-    background-color: rgba(0, 0, 0, 0.034);
+   background-color: rgba(0, 0, 0, 0.034); 
     padding-bottom: 21px;
-    margin-top: -240px;
-    
 }
 
-#productsHome a {
-    display: inline-block; 
-}
+/* IMAGENS PRODUCTSHOME GERAL */
 
 img {
     width: 200px;
@@ -89,14 +85,15 @@ img:hover {
     height: 230px;
 }
 
-#backgroundProductsHome {
-    position: relative; /* Define a posição como relativa */
-    z-index: 1; /* Define um z-index menor */
+/* IMAGENS PRODUCTSHOME */
+
+#Tesoura {
+    background-image: url("imagensprodutos/pexels-pixabay-461035.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-#backgroundProductsHome > img {
-    width: 900px;
-}
+
 
 
 
