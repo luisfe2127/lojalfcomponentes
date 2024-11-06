@@ -6,6 +6,12 @@
 }
 
 /* INICIO */
+
+#inicio {
+    background-image: url("imagensprodutos/thumbnail.jfif");
+    background-repeat: no-repeat;
+    background-size: ;
+}
   
 
 #title01 {
@@ -87,11 +93,11 @@ img:hover {
 
 /* IMAGENS PRODUCTSHOME */
 
-#Tesoura {
+/*#Tesoura {
     background-image: url("imagensprodutos/pexels-pixabay-461035.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-}
+}*/
 
 
 
